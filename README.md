@@ -12,7 +12,3 @@
 </div>
   
   ##
-  
-  <div>
-    ![Snake animation](https://github.com/ViniciusVenturaM/ViniciusVenturaM/blob/output/github-contribution-grid-snake.svg)
-  </div>
