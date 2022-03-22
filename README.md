@@ -1,4 +1,5 @@
 ### Olá, meu nome é Vinícius Ventura! 👋
+##
 <div align="center">
   <a href="https://github.com/ViniciusVenturaM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusVenturaM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,4 +12,7 @@
 </div>
   
   ##
+  
+  <div>
     ![Snake animation](https://github.com/ViniciusVenturaM/ViniciusVenturaM/blob/output/github-contribution-grid-snake.svg)
+  </div>
