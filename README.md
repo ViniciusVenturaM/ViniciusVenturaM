@@ -10,10 +10,14 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=ViniciusVenturaM&show_icons=true">
 </a>
 <a href="https://github.com/ViniciusVenturaM">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasMA&layout=compact&langs_count=6">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVenturaM&layout=compact&langs_count=6">
 </a>
 
+
+
 ---
+
+
 
 ## What did I work with?
 ### Languages 
@@ -35,6 +39,7 @@
 ### OS
 
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ---
 
