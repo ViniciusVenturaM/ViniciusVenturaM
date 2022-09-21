@@ -1,16 +1,16 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on [Rubeus](https://github.com/rubeus-tecnologia-e-inovacao)
-- 🌱 I’m currently learning Python, PHP and anothers things
+- 🌱 I’m currently learning PHP, Java and anothers things
 - 💬 Ask me about JavaScript
 
 
 ---
 <a href="https://github.com/ViniciusVenturaM">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=ViniciusVenturaM&show_icons=true">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=ViniciusVenturaM&show_icons=true&theme=dracula">
 </a>
 <a href="https://github.com/ViniciusVenturaM">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVenturaM&layout=compact">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVenturaM&layout=compact&theme=dracula">
 </a>
 
 
