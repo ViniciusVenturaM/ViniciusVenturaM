@@ -10,7 +10,7 @@
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=ViniciusVenturaM&show_icons=true">
 </a>
 <a href="https://github.com/ViniciusVenturaM">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVenturaM&layout=compact)](https://github.com/ViniciusVenturaM/github-readme-stats)">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVenturaM&layout=compact">
 </a>
 
 
