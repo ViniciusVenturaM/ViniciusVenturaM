@@ -25,4 +25,4 @@
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//vinícius-ventura-601072218) 
+[![LinkedIn](https://img.shields.io/badge/vinícius-ventura-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-ventura-601072218/) 
