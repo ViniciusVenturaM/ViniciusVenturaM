@@ -23,5 +23,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/vinícius-ventura-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-ventura-601072218/) 
